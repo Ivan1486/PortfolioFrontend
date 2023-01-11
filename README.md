@@ -1,1 +1,2 @@
-"# frontend-angular"  
+# PortfolioFrontend  
+repositorio para el frontend
